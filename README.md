@@ -51,6 +51,9 @@
 <a href="https://stackoverflow.com/users/22051074/nammar-mahsud" target="_blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>  
+<a href="https://dev.to/namr547" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin-bottom: 5px;" />
+</a>  
 </div> 
   
 
